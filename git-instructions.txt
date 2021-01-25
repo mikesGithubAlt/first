@@ -1,0 +1,20 @@
+navigate into the directory that contains the code or project you want to track
+
+
+run `git init`
+- this creates the hidden .git file, also known as the repo
+
+run `git status`
+- this will show you which files need to be added, or are out of sync
+
+run `git add <filename>`
+- mark a file to be saved. DOESN"T SAVE YET
+
+- repeat that for every file that hasn't been added
+
+run `git commit -m "YOUR COMMENT HERE"`
+- this saves your code as a commit
+- it also leaves a comment in the commit to identify the code it's saving
+
+
+
